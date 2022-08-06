@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /******** :: INDEX OF CSS :: *******
+=======
+******* :: INDEX OF CSS :: *******
+>>>>>>> b510688d03c882a51dad5d5a6f255a168c01b183
 :: 1.0 WEB FONTS
 :: 2.0 IMPORT ALL CSS
 :: 3.0 GLOBAL CSS
@@ -2977,5 +2981,9 @@ body.dark,
 .rtl .btn.btn-bordered-white::after,
 .rtl .bg-overlay::after,
 .rtl .grad-hover::before {
+<<<<<<< HEAD
   background: linear-gradient(135deg, #e0040b 0%, #fc5130 100%);
+=======
+    background: linear-gradient(135deg, #E0040B 0%, #fc5130 100%);
+>>>>>>> b510688d03c882a51dad5d5a6f255a168c01b183
 }
