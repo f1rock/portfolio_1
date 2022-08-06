@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 /******** :: INDEX OF RESPONSIVE CSS :: *******
-=======
-******* :: INDEX OF RESPONSIVE CSS :: *******
->>>>>>> b510688d03c882a51dad5d5a6f255a168c01b183
 :: 1.0 COMMON CSS
 :: 2.0 HEADER AREA CSS
 :: 3.0 WELCOME AREA CSS
@@ -468,13 +464,7 @@
     left: 30%;
   }
 
-<<<<<<< HEAD
   .astronaut {
     top: 70%;
   }
-=======
-    .astronaut {
-        top: 70%;
-    }
->>>>>>> b510688d03c882a51dad5d5a6f255a168c01b183
 }
